@@ -50,3 +50,5 @@ In your current GitHub repository project (this one), go to Settings then Secret
 After completing these steps, you should be able to test your mobile app
 
 Test the CI/CD
+
+Addming a word to it
