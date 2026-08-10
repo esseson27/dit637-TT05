@@ -84,5 +84,3 @@ Based on this code snippet:
 # Summary
 
 This GitHub Actions workflow automates the deployment of the Express.js backend to an Amazon EC2 instance, creating a consistent and repeatable CI/CD process. By securely using GitHub repository secrets for authentication and environment configuration, the workflow protects sensitive credentials while minimizing manual deployment tasks. This architecture contributes to a Smart and Secure System by improving deployment reliability, supporting secure cloud operations, and enabling continuous delivery of application updates.
-
-This version is stronger than a generic AI-generated summary because it clearly explains the architectural role, highlights the security controls (GitHub Secrets), and connects the implementation to the concept of a Smart and Secure System, which is exactly what your instructor is looking for.
